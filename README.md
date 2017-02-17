@@ -1,0 +1,2 @@
+# django
+start my project
